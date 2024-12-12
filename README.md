@@ -24,6 +24,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/SQL%20Developer-A9A9A9?style=for-the-badge">
   <img alt="Static Badge" src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio%20Code-3EA6E9?style=for-the-badge">
+  <img alt="Static Badge" src="https://img.shields.io/badge/STS-6DB33F?style=for-the-badge">
 </div>
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
