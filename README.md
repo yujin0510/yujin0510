@@ -31,7 +31,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
  <img alt="Static Badge" src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api?username=yujin0510&hide=contribs,prs&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujin0510&layout=compact)
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" />
 </div>
