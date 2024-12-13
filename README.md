@@ -32,15 +32,14 @@
  <img alt="Static Badge" src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div>
 <br>
-<br>
-<div align="center">
-  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujin0510&layout=compact&theme=transparent" />
-</div>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" />
 </div>
 
 <!--
+<div align="center">
+  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujin0510&layout=compact&theme=transparent" />
+</div>
 **yujin0510/yujin0510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
